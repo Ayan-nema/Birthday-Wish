@@ -7,7 +7,7 @@ from blue at the top to pink at the bottom.
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(#66078f, rgb(22, 5, 69));
+    background: linear-gradient(#FF5733, rgb(22, 5, 69));
     color: #ffffff;
 }
 
